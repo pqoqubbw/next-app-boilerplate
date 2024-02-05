@@ -1,0 +1,27 @@
+{
+  "Index": {
+    "title": "Додому",
+    "loggedIn": "Увійшли як {ім'я користувача}",
+    "loggedOut": "Ви вийшли з системи.",
+    "login": "Вхід",
+    "logout": "Вийти",
+    "secret": "Секретна сторінка для авторизованих користувачів"
+  },
+  "LocaleLayout": {
+    "title": "next-intl із прикладом Auth.js"
+  },
+  "Login": {
+    "title": "Вхід",
+    "username": "Ім'я користувача",
+    "password": "Пароль",
+    "submit": "Увійти",
+    "error": "{error, select, CredentialsSignin {Invalid username or password} other {Unknown error}}"
+  },
+  "LocaleSwitcher": {
+    "switchLocale": "Переключитися на {locale, select, uk {Ukrainian} en {English} other {Unknown}}"
+  },
+  "Secret": {
+    "title": "Секретна сторінка",
+    "description": "Ця сторінка доступна лише для авторизованих користувачів."
+  }
+}
